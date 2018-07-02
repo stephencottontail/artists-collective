@@ -1,0 +1,25 @@
+$white: #fff;
+$gray: #f8f8f8;
+$black: #261822;
+$orange: #ff5233;
+$background-color: $white;
+$text-color: $black;
+$primary-color: $orange;
+$link-color: $primary-color;
+$hover-color: darken( $primary-color, 8 );
+
+$serif: "Copse", "Georgia", serif;
+$sans: "Muli", "Helvetica", sans-serif;
+$body-font: $sans;
+$header-font: $serif;
+
+$base-font-size: 16px;
+$base-line-height: 1.5;
+$base-spacing: $base-font-size * $base-line-height;
+
+$raindrop: 320px;
+$puddle: 481px;
+$pond: 769px;
+$river: 1025px;
+$lake: 1201px;
+$ocean: 1601px;

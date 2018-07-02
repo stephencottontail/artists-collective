@@ -1,0 +1,29 @@
+{
+  "name": "artists-collective",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephencottontail/artists-collective.git"
+  },
+  "author": "",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/stephencottontail/artists-collective/issues"
+  },
+  "homepage": "https://github.com/stephencottontail/artists-collective#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-ruby-sass": "^3.0.0",
+    "gulp-uglify": "^3.0.0",
+    "normalize.css": "^8.0.0"
+  }
+}
